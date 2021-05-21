@@ -1,0 +1,61 @@
+/* ----------------------------------------------- */
+/* VARIABLES */
+/* ----------------------------------------------- */
+/* MIXINS */
+body {
+  font-family: "Lato", "Arial", "Helvetica", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  background: #FFFFFF;
+  color: #444444;
+  max-width: 600px;
+  margin: auto;
+}
+
+h1 {
+  color: #264653;
+  font-size: 2.2em;
+  margin: 0 0 20px 0;
+}
+
+h2 {
+  color: #e76f51;
+  font-size: 2em;
+  margin: 0 0 20px 0;
+}
+
+h3 {
+  color: #e9c46a;
+  font-size: 1.8em;
+  margin: 0 0 20px 0;
+}
+
+h4 {
+  color: #c6538c;
+  font-size: 1.6em;
+  margin: 0 0 10px 0;
+}
+
+h5 {
+  color: #f4a261;
+  font-size: 1.4em;
+  margin: 0 0 10px 0;
+}
+
+p {
+  line-height: 1.6;
+}
+
+a {
+  color: #5295b0;
+  text-decoration: none;
+  /*color: inherit;*/
+}
+
+a:hover {
+  color: #264653;
+  text-decoration: underline;
+  /*color: inherit;*/
+}
+
+/*# sourceMappingURL=app.css.map */
